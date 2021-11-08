@@ -20,5 +20,5 @@ chmod +x yt.sh
 - sed
 - grep
 - awk
-- fzf or dmenu (change variable from ```sh menu=fzf ``` to ```sh menu=dmenu ``` to use dmenu)
+- fzf or dmenu (change variable from ``` menu=fzf ``` to ``` menu=dmenu ``` to use dmenu)
 - mpv (for streaming video)
