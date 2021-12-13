@@ -17,8 +17,6 @@ chmod +x yt.sh
 # Dependencies
 
 - curl
-- ~~sed~~ (replaced with awk)
-- ~~grep~~ (replaced with awk)
 - awk
 - fzf or dmenu (change variable from ``` menu=fzf ``` to ``` menu=dmenu ``` to use dmenu)
-- mpv (for streaming video)
+- mpv
