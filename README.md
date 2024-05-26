@@ -1,11 +1,11 @@
-# youtube-from-terminal
+# YouTube from Terminal
 
-A simple script to search youtube from terminal and watch video in mpv
+This script allows you to search for YouTube videos from the terminal and watch them using `mpv`.
 
 # Usage
 
 ```sh
-./yt.sh <search-query>
+./yt.sh -q <search-query>
 ```
 # Setup
 
@@ -18,5 +18,5 @@ chmod +x yt.sh
 
 - curl
 - awk
-- fzf or dmenu (change variable from ``` menu=fzf ``` to ``` menu=dmenu ``` to use dmenu)
+- fzf
 - mpv
